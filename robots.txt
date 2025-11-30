@@ -1,0 +1,17 @@
+# Robots.txt pour Allô Taxi Jean-Mi
+# https://allotaxijeanmi.fr
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://allotaxijeanmi.fr/sitemap.xml
+
+# Googlebot
+User-agent: Googlebot
+Allow: /
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+
